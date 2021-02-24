@@ -1,3 +1,3 @@
-https://github.com/MannyHackers/botkaca/archive/Latest.zip
+https://github.com/MannyHackers/botkaca/archive/asyncio.zip
 tgcrypto
 aria2p
